@@ -377,11 +377,11 @@ h1{
     opacity: 0;
     transform: translateY(20px);
     transition:1.3s;
-    font-size: 50px;
-    padding: 10px 60px;
+    font-size: 65px;
+    padding: 5px 35px;
     margin-bottom:auto;
     line-height:1.4;
-    letter-spacing:10px;
+    letter-spacing:8px;
     border-radius:5px ;
     font-weight: bold;
     white-space:nowrap;
@@ -392,8 +392,8 @@ h1{
     opacity: 0;
     transform: translateY(20px);
     transition:1.3s;
-    font-size: 50px;
-    padding: 10px 80px;
+    font-size: 65px;
+    padding: 4px 35px;
     margin-bottom:auto;
     line-height:1.4;
     letter-spacing:10px;
@@ -427,7 +427,7 @@ h1{
     transform: translateY(20px);
     transition:1.3s;
     background-color: #555;
-    font-size:14px;
+    font-size:28px;
     max-width:340px;
     border-radius:5px;
     font-family: 'Noto Serif', serif;
@@ -439,39 +439,38 @@ h1{
     transform: translateY(20px);
     transition:1.3s;
     background-color: #555;
-    font-size:18px;
+    font-size:30px;
     max-width:340px;
     border-radius:5px;
     font-family: 'Song Myung', serif;
 }
 
 .contents .profile-move{
-    height:170px;
-    line-height: 2;
+    height:245px;
+    line-height: 1.5;
     margin-right:300px;
     /*30px*/
-    padding-right:110px;
-    padding-left:50px;
+    padding-right:10px;
+    padding-left:20px;
     padding-top:15px;
     margin-top:30px;  
 }
 
 .contents-ko .profile-move-ko{
-    height:190px;
-    line-height: 1.9;
+    height:225px;
+    line-height: 1.3;
     margin-right:300px;
-    /*30px*/
-    padding-right:90px;
-    padding-left:50px;
-    padding-top:12px;
+    padding-right:10px;
+    padding-left:20px;
+    padding-top:15px;
     margin-top:30px;  
 }
 
 .contents .skill-move{
     width:250px;
     padding:15px 0;
-    padding-left:50px;
-    line-height:35px;
+    padding-left:30px;
+    line-height:1.5;
     margin-left:300px;
     margin-top:28px;
 }
@@ -479,8 +478,8 @@ h1{
 .contents-ko .skill-move-ko{
     width:250px;
     padding:15px 0;
-    padding-left:50px;
-    line-height:35px;
+    padding-left:25px;
+    line-height:1.5;
     margin-left:300px;
     margin-top:28px;
 }
